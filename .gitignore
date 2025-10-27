@@ -72,3 +72,18 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Content/__ExternalActors__
+/Content/__ExternalObjects__
+/Content/TopDown/Blueprints/ItemSystem/Meshes
+/Content/TopDown/Blueprints/_Archiv
+/Content/Sword_Animation/Demo
+/Content/StarterContent
+/Content/ShadowKight
+/Content/Fab
+/Content/Characters
+Content/MS_Fruits/Megascans_Fruit_Source.zip
+commit_030725_123525.json
+commit_260625_154105.json
+Windows/RPGPrototype/Content/Paks/RPGPrototype-Windows.ucas
+Windows/RPGPrototype/Content/Paks/RPGPrototype-Windows.pak
+Windows/RPGPrototype/Content/Paks/RPGPrototype-Windows.utoc
